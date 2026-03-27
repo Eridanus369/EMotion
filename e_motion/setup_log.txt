@@ -1,0 +1,21 @@
+[2026-03-27] Setup Log for e_motion Blender Add-on
+
+1. Created blender_manifest.toml with version 0.1.0
+2. Created LICENSE file with MIT License
+3. Created README.md with plugin information and usage instructions
+4. Updated author name to Eridanus in blender_manifest.toml
+5. Added missing 'id' field to blender_manifest.toml
+6. Updated version requirements to Blender 4.5+
+7. Added 'maintainer' field to blender_manifest.toml
+8. Verified directory structure meets Blender extension requirements
+
+Files created:
+- blender_manifest.toml
+- LICENSE
+- README.md
+
+Version: 0.1.0
+Author: Eridanus
+Maintainer: Eridanus
+ID: org.eridanus.emotion
+Blender Version: 4.5+

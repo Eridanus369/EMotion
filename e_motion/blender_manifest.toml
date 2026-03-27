@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "org_eridanus_emotion"
+version = "0.1.0"
+name = "E Motion"
+tagline = "Motion editing and curve manipulation"
+maintainer = "Eridanus"
+type = "add-on"
+blender_version_min = "4.5.0"
+blender_version_max = "4.9.0"
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Animation"]
